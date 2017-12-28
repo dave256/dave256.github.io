@@ -1,0 +1,7 @@
+---
+layout: post
+microblog: true
+date: 2017-04-26 19:27 -0500
+guid: http://davereed.micro.blog/2017/04/27/finals-start-tomorrow.html
+---
+Finals start tomorrow. Looking forward to re-energizing this summer. Planning to make some more flipped-clasroom videos, write some Swift code, and work on my reDraw iPad app.
