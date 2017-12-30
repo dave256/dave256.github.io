@@ -1,6 +1,6 @@
 # Dependencies
 # - markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 # - permalink:        pretty
@@ -35,4 +35,3 @@ paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Michigan"
 site_id: "378"
-theme: jekyll-theme-cayman
