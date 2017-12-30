@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://davereed.micro.blog/2017/12/30/how-does-the.html",
+	      	
+			"content_html": "<p>How does the weather channel app use background activity when I have it turned off for the app in iOS settings? Need to look for a new weather app I like. Dark Sky is great for near term forecast but not for longer term forecast. </p>\n\n<p><img src=\"http://microblog.dave256apps.com/uploads/2017/8f0691c438.jpg\" width=\"337\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-30T08:41:00-05:00",
+			"url": "https://microblog.dave256apps.com/2017/12/30/how-does-the.html"
+		},
+		
+		{
 			"id": "http://davereed.micro.blog/2017/12/06/amazon-appletv-app.html",
 	      	
 			"content_html": "<p>Amazon AppleTV app released according to release notes for their Amazon Prime Video iOS app. I can’t find it in AppleTV App Store yet but I suspect it will be there later today. </p>\n\n<p><img src=\"http://davereed.micro.blog/uploads/2017/faa0b8c703.jpg\" width=\"600\" height=\"405\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Technology is amazing but can also be debilitating. I wish I could convince my students to ignore their cell phones when studying and working on assignments. <a href=\"https://www.nytimes.com/2017/10/19/smarter-living/simple-ways-to-be-better-at-remembering.html\">NYT article</a></p>\n",
 			"date_published": "2017-10-23T19:40:00-05:00",
 			"url": "https://microblog.dave256apps.com/2017/10/23/technology-is-amazing.html"
-		},
-		
-		{
-			"id": "http://davereed.micro.blog/2017/08/15/theres-lots-of.html",
-	      	
-			"content_html": "<p>There’s lots of software I have purchased because I would occasionally find them useful, but not enough to pay a subscription for. I think the reason subscription prices are higher than previous upgrade prices for same app is they realize they’re going to lose a lot of customers.</p>\n",
-			"date_published": "2017-08-15T17:12:00-05:00",
-			"url": "https://microblog.dave256apps.com/2017/08/15/theres-lots-of.html"
 		}
 		
 	]
