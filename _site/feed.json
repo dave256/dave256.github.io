@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://davereed.micro.blog/2018/01/14/ios-economy.html",
+	      	
+			"title": "iOS Economy",
+			
+			"content_html": "<p><a href=\"http://www.asymco.com/2018/01/08/the-ios-economy-updated/\">The iOS Economy, Updated</a> (via <a href=\"https://micro.blog/gruber\">@gruber</a> <a href=\"https://daringfireball.net/linked/2018/01/12/dediu-ios-economy\">Daring Fireball</a>)</p>\n\n<p>I’d love to know where the money is going. I suspect the largest single category is the various video services (Netflix, HBO, Showtime, etc.). I worry the second largest category (based on seeing television ads for the games) is for “virtual coins” so you can be successful in freemium games.</p>\n\n<p>My experience as a (hobbyist) developer writing productivity apps (for a niche market) and seeing various apps that aren’t sustainable <a href=\"https://panic.com/blog/the-future-of-transmit-ios/\">Transmit for iOS</a> is that most productivity/utility apps don’t generate much income. I averaged less than $10 a day in total sales from a couple iOS apps and one Mac app in 2017. I suspect with some marketing, switching to a freemium model so you could try the apps before purchasing them, and more effort in improving those apps (localization, etc.), I could increase that to $50 to a day, but I doubt I could make enough to quit my day job.</p>\n\n<p>There are, of course, exceptions as I assume OmniGroup must make a reasonable amount of money from their iOS apps and a few indie developers make a reasonable living from the App Store (although <a href=\"https://micro.blog/manton\">@manton</a> and <a href=\"https://micro.blog/danielpunkass\">@danielpunkass</a> and others supplement it with podcast advertising and other sources of income).</p>\n\n<p>I worry that a large portion of the $100 million a day being spent in the App Store is on consumable virtual coins and that doesn’t seem healthy to me.</p>\n",
+			"date_published": "2018-01-13T20:02:00-05:00",
+			"url": "https://microblog.dave256apps.com/2018/01/13/ios-economy.html"
+		},
+		
+		{
 			"id": "http://davereed.micro.blog/2017/12/30/how-does-the.html",
 	      	
 			"content_html": "<p>How does the weather channel app use background activity when I have it turned off for the app in iOS settings? Need to look for a new weather app I like. Dark Sky is great for near term forecast but not for longer term forecast. </p>\n\n<p><img src=\"http://microblog.dave256apps.com/uploads/2017/8f0691c438.jpg\" width=\"337\" height=\"600\" /></p>\n",
@@ -75,14 +85,6 @@
 			"content_html": "<p>Starting to cross-post my davereed.micro.blog posts to Twitter. Will still reply on Twitter but will initiate new posts from micro.blog</p>\n",
 			"date_published": "2017-10-29T16:05:00-05:00",
 			"url": "https://microblog.dave256apps.com/2017/10/29/starting-to-crosspost.html"
-		},
-		
-		{
-			"id": "http://davereed.micro.blog/2017/10/24/technology-is-amazing.html",
-	      	
-			"content_html": "<p>Technology is amazing but can also be debilitating. I wish I could convince my students to ignore their cell phones when studying and working on assignments. <a href=\"https://www.nytimes.com/2017/10/19/smarter-living/simple-ways-to-be-better-at-remembering.html\">NYT article</a></p>\n",
-			"date_published": "2017-10-23T19:40:00-05:00",
-			"url": "https://microblog.dave256apps.com/2017/10/23/technology-is-amazing.html"
 		}
 		
 	]
