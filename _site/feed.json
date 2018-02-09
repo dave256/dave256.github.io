@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://davereed.micro.blog/2018/02/09/tech-addiction.html",
+	      	
+			"title": "Tech Addiction",
+			
+			"content_html": "<p><a href=\"https://www.edsurge.com/news/2018-02-07-former-google-design-ethicist-relying-on-big-tech-in-schools-is-a-race-to-the-bottom\">EdSurge article</a></p>\n\n<p>“Supercomputers play chess against your mind to extract the attention out of you. The stock price has to keep going up, so they point it at your kid and start extracting the attention out of them. You don’t want an extraction-based economy powered by AI, playing chess against people’s minds. We cannot win in that world.”</p>\n",
+			"date_published": "2018-02-08T19:15:00-05:00",
+			"url": "https://microblog.dave256apps.com/2018/02/08/tech-addiction.html"
+		},
+		
+		{
 			"id": "http://davereed.micro.blog/2018/01/14/ios-economy.html",
 	      	
 			"title": "iOS Economy",
@@ -77,14 +87,6 @@
 			"content_html": "<p>Saw this <a href=\"https://8thlight.com/blog/colin-jones/2017/10/24/advice-for-early-career-developers.html\">Advice for early-career developers</a></p>\n\n<p>Overall seems like pretty good advice. My favorite quote: “Being willing to read is a superpower in our industry. It really is.”</p>\n",
 			"date_published": "2017-10-29T16:33:00-05:00",
 			"url": "https://microblog.dave256apps.com/2017/10/29/saw-this-advice.html"
-		},
-		
-		{
-			"id": "http://davereed.micro.blog/2017/10/29/starting-to-crosspost.html",
-	      	
-			"content_html": "<p>Starting to cross-post my davereed.micro.blog posts to Twitter. Will still reply on Twitter but will initiate new posts from micro.blog</p>\n",
-			"date_published": "2017-10-29T16:05:00-05:00",
-			"url": "https://microblog.dave256apps.com/2017/10/29/starting-to-crosspost.html"
 		}
 		
 	]
