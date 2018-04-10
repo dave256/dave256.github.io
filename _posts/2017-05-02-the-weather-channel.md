@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-05-02 15:06 -0500
 guid: http://davereed.micro.blog/2017/05/02/the-weather-channel.html
 ---
