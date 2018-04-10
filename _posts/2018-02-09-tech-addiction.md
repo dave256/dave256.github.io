@@ -2,6 +2,7 @@
 layout: post
 title: "Tech Addiction"
 microblog: false
+audio: 
 date: 2018-02-08 19:15 -0500
 guid: http://davereed.micro.blog/2018/02/09/tech-addiction.html
 ---
