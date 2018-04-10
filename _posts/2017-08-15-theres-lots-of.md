@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-08-15 17:12 -0500
 guid: http://davereed.micro.blog/2017/08/15/theres-lots-of.html
 ---
