@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-29 16:33 -0500
 guid: http://davereed.micro.blog/2017/10/29/saw-this-advice.html
 ---
