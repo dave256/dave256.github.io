@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-27 17:01 -0500
 guid: http://davereed.micro.blog/2017/11/27/released-version-of.html
 ---
