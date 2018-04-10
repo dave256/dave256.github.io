@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-07-28 10:56 -0500
 guid: http://davereed.micro.blog/2017/07/28/convenient-access-to.html
 ---
