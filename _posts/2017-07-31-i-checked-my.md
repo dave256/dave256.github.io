@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-07-30 19:18 -0500
 guid: http://davereed.micro.blog/2017/07/31/i-checked-my.html
 ---
