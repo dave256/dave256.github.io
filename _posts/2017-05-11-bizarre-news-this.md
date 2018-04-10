@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-05-10 19:45 -0500
 guid: http://davereed.micro.blog/2017/05/11/bizarre-news-this.html
 ---
