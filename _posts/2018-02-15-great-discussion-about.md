@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-15 07:40 -0500
 guid: http://davereed.micro.blog/2018/02/15/great-discussion-about.html
 ---
