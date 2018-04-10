@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-04-26 19:27 -0500
 guid: http://davereed.micro.blog/2017/04/27/finals-start-tomorrow.html
 ---
