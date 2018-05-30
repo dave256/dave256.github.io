@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-15 07:40 -0500
+date: 2018-02-15 08:40:51 -0400
 guid: http://davereed.micro.blog/2018/02/15/great-discussion-about.html
 ---
 Great discussion about screen addiction, especially with kids, by Georgia Dow and Rene Ritchie on Vector podcast (episode 075).
