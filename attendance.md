@@ -3,7 +3,7 @@ title: "Attendance2"
 permalink: "/attendance/"
 layout: page
 order: 2
-date: 2017-12-11 13:55 -0500
+date: 2017-12-11 14:55:49 -0400
 ---
 Attendance2 [iTunes App Store link](http://appstore.com/attendance2) is an app designed for teachers to take attendance in the classroom (either manually or by scanning QR or bar codes). It has options for generating random groups of students or selecting students in random order. You may customize the status from the default values of Absent, Present, Late, Excused and may use an optional second set of status values (for recording participation or other options).
 
