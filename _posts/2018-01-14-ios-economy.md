@@ -3,7 +3,7 @@ layout: post
 title: "iOS Economy"
 microblog: false
 audio: 
-date: 2018-01-13 20:02 -0500
+date: 2018-01-13 21:02:40 -0400
 guid: http://davereed.micro.blog/2018/01/14/ios-economy.html
 ---
 [The iOS Economy, Updated](http://www.asymco.com/2018/01/08/the-ios-economy-updated/) (via [@gruber](https://micro.blog/gruber) [Daring Fireball](https://daringfireball.net/linked/2018/01/12/dediu-ios-economy))
