@@ -3,7 +3,7 @@ layout: post
 title: "Tech Addiction"
 microblog: false
 audio: 
-date: 2018-02-08 19:15 -0500
+date: 2018-02-08 20:15:12 -0400
 guid: http://davereed.micro.blog/2018/02/09/tech-addiction.html
 ---
 [EdSurge article](https://www.edsurge.com/news/2018-02-07-former-google-design-ethicist-relying-on-big-tech-in-schools-is-a-race-to-the-bottom)
