@@ -6,10 +6,18 @@
 	"items": [
 		
 		{
+			"id": "http://davereed.micro.blog/2018/05/30/congrats-to-omni.html",
+	      	
+			"content_html": "<p>Congrats to <a href=\"https://micro.blog/Omni\">@Omni</a> on their release of OmniFocus 3 for iOS. I spent the morning cleaning out my OmniFocus database, adding tags, and setting up new perspectives (these features allowed me to get rid of fake due dates). <a href=\"https://itunes.apple.com/us/app/omnifocus-3/id1346190318?mt=8\">itunes.apple.com/us/app/om…</a></p>\n",
+			"date_published": "2018-05-30T15:07:47-04:00",
+			"url": "https://microblog.dave256apps.com/2018/05/30/congrats-to-omni.html"
+		},
+		
+		{
 			"id": "http://davereed.micro.blog/2018/04/09/as-someone-who.html",
 	      	
 			"content_html": "<p>As someone who recently tried to set some limitations on an iOS device used by a 12 year old, I’d love to see Apple include many of these features.</p>\n\n<p><a href=\"https://davedelong.com/blog/2018/04/06/if-ipads-were-meant-for-kids/\">davedelong.com</a></p>\n",
-			"date_published": "2018-04-09T19:43:00-04:00",
+			"date_published": "2018-04-09T19:43:15-04:00",
 			"url": "https://microblog.dave256apps.com/2018/04/09/as-someone-who.html"
 		},
 		
@@ -17,7 +25,7 @@
 			"id": "http://davereed.micro.blog/2018/02/15/great-discussion-about.html",
 	      	
 			"content_html": "<p>Great discussion about screen addiction, especially with kids, by Georgia Dow and Rene Ritchie on Vector podcast (episode 075).</p>\n\n<p><a href=\"https://overcast.fm/+K8lg4-v6s\">Overcast link</a></p>\n",
-			"date_published": "2018-02-15T07:40:00-05:00",
+			"date_published": "2018-02-15T07:40:51-05:00",
 			"url": "https://microblog.dave256apps.com/2018/02/15/great-discussion-about.html"
 		},
 		
@@ -27,7 +35,7 @@
 			"title": "Tech Addiction",
 			
 			"content_html": "<p><a href=\"https://www.edsurge.com/news/2018-02-07-former-google-design-ethicist-relying-on-big-tech-in-schools-is-a-race-to-the-bottom\">EdSurge article</a></p>\n\n<p>“Supercomputers play chess against your mind to extract the attention out of you. The stock price has to keep going up, so they point it at your kid and start extracting the attention out of them. You don’t want an extraction-based economy powered by AI, playing chess against people’s minds. We cannot win in that world.”</p>\n",
-			"date_published": "2018-02-08T19:15:00-05:00",
+			"date_published": "2018-02-08T19:15:12-05:00",
 			"url": "https://microblog.dave256apps.com/2018/02/08/tech-addiction.html"
 		},
 		
@@ -37,7 +45,7 @@
 			"title": "iOS Economy",
 			
 			"content_html": "<p><a href=\"http://www.asymco.com/2018/01/08/the-ios-economy-updated/\">The iOS Economy, Updated</a> (via <a href=\"https://micro.blog/gruber\">@gruber</a> <a href=\"https://daringfireball.net/linked/2018/01/12/dediu-ios-economy\">Daring Fireball</a>)</p>\n\n<p>I’d love to know where the money is going. I suspect the largest single category is the various video services (Netflix, HBO, Showtime, etc.). I worry the second largest category (based on seeing television ads for the games) is for “virtual coins” so you can be successful in freemium games.</p>\n\n<p>My experience as a (hobbyist) developer writing productivity apps (for a niche market) and seeing various apps that aren’t sustainable <a href=\"https://panic.com/blog/the-future-of-transmit-ios/\">Transmit for iOS</a> is that most productivity/utility apps don’t generate much income. I averaged less than $10 a day in total sales from a couple iOS apps and one Mac app in 2017. I suspect with some marketing, switching to a freemium model so you could try the apps before purchasing them, and more effort in improving those apps (localization, etc.), I could increase that to $50 to a day, but I doubt I could make enough to quit my day job.</p>\n\n<p>There are, of course, exceptions as I assume OmniGroup must make a reasonable amount of money from their iOS apps and a few indie developers make a reasonable living from the App Store (although <a href=\"https://micro.blog/manton\">@manton</a> and <a href=\"https://micro.blog/danielpunkass\">@danielpunkass</a> and others supplement it with podcast advertising and other sources of income).</p>\n\n<p>I worry that a large portion of the $100 million a day being spent in the App Store is on consumable virtual coins and that doesn’t seem healthy to me.</p>\n",
-			"date_published": "2018-01-13T20:02:00-05:00",
+			"date_published": "2018-01-13T20:02:40-05:00",
 			"url": "https://microblog.dave256apps.com/2018/01/13/ios-economy.html"
 		},
 		
@@ -45,7 +53,7 @@
 			"id": "http://davereed.micro.blog/2017/12/30/how-does-the.html",
 	      	
 			"content_html": "<p>How does the weather channel app use background activity when I have it turned off for the app in iOS settings? Need to look for a new weather app I like. Dark Sky is great for near term forecast but not for longer term forecast.</p>\n\n<p><img src=\"http://microblog.dave256apps.com/uploads/2017/8f0691c438.jpg\" width=\"337\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-30T08:41:00-05:00",
+			"date_published": "2017-12-30T08:41:54-05:00",
 			"url": "https://microblog.dave256apps.com/2017/12/30/how-does-the.html"
 		},
 		
@@ -53,7 +61,7 @@
 			"id": "http://davereed.micro.blog/2017/12/06/amazon-appletv-app.html",
 	      	
 			"content_html": "<p>Amazon AppleTV app released according to release notes for their Amazon Prime Video iOS app. I can’t find it in AppleTV App Store yet but I suspect it will be there later today.</p>\n\n<p><img src=\"http://davereed.micro.blog/uploads/2017/faa0b8c703.jpg\" width=\"600\" height=\"405\" /></p>\n",
-			"date_published": "2017-12-06T07:00:00-05:00",
+			"date_published": "2017-12-06T07:00:29-05:00",
 			"url": "https://microblog.dave256apps.com/2017/12/06/amazon-appletv-app.html"
 		},
 		
@@ -61,7 +69,7 @@
 			"id": "http://davereed.micro.blog/2017/12/06/used-apple-pay.html",
 	      	
 			"content_html": "<p>Used Apple Pay Cash today. Loaded $10 in it to try it (loads immediately). I had purchased some items for a friend so he paid me via Apple Pay Cash and I set up a transfer to my bank account (that takes 1-3 business days). Seems like a nice system.</p>\n",
-			"date_published": "2017-12-05T21:44:00-05:00",
+			"date_published": "2017-12-05T21:44:47-05:00",
 			"url": "https://microblog.dave256apps.com/2017/12/05/used-apple-pay.html"
 		},
 		
@@ -69,7 +77,7 @@
 			"id": "http://davereed.micro.blog/2017/12/06/congrats-to-daniel.html",
 	      	
 			"content_html": "<p>Congrats to Daniel Jalkut of @redsweater on the release of MarsEdit 4. <a href=\"https://red-sweater.com/blog/3274/marsedit-4-is-here\">red-sweater.com/blog/3274…</a></p>\n",
-			"date_published": "2017-12-05T21:41:00-05:00",
+			"date_published": "2017-12-05T21:41:51-05:00",
 			"url": "https://microblog.dave256apps.com/2017/12/05/congrats-to-daniel.html"
 		},
 		
@@ -77,7 +85,7 @@
 			"id": "http://davereed.micro.blog/2017/11/30/released-version-of.html",
 	      	
 			"content_html": "<p>Released version 3.1 of reDraw Whiteboard today. Main new feature is external screen also zooms/pans when you zoom/pan iPad screen plus a couple other new small features. <a href=\"https://itunes.apple.com/us/app/redraw/id1114820588?mt=8\">itunes.apple.com/us/app/re…</a></p>\n",
-			"date_published": "2017-11-30T17:00:00-05:00",
+			"date_published": "2017-11-30T17:00:41-05:00",
 			"url": "https://microblog.dave256apps.com/2017/11/30/released-version-of.html"
 		},
 		
@@ -85,7 +93,7 @@
 			"id": "http://davereed.micro.blog/2017/11/27/released-version-of.html",
 	      	
 			"content_html": "<p>Released version 6.1 of <a href=\"https://itunes.apple.com/us/app/attendance2/id536206472?mt=8\">Attendance2</a> today with a few new features I’ve been working on for a while.</p>\n",
-			"date_published": "2017-11-27T17:01:00-05:00",
+			"date_published": "2017-11-27T17:01:09-05:00",
 			"url": "https://microblog.dave256apps.com/2017/11/27/released-version-of.html"
 		},
 		
@@ -93,7 +101,7 @@
 			"id": "http://davereed.micro.blog/2017/11/01/my-math-colleague.html",
 	      	
 			"content_html": "<p>My math colleague @JonStadlerMath had the perfect Halloween costume.</p>\n\n<p><img src=\"http://davereed.micro.blog/uploads/2017/86aa8021ca.jpg\" width=\"600\" height=\"400\" /></p>\n",
-			"date_published": "2017-10-31T20:42:00-04:00",
+			"date_published": "2017-10-31T20:42:16-04:00",
 			"url": "https://microblog.dave256apps.com/2017/10/31/my-math-colleague.html"
 		},
 		
@@ -101,7 +109,7 @@
 			"id": "http://davereed.micro.blog/2017/10/29/saw-this-advice.html",
 	      	
 			"content_html": "<p>Saw this <a href=\"https://8thlight.com/blog/colin-jones/2017/10/24/advice-for-early-career-developers.html\">Advice for early-career developers</a></p>\n\n<p>Overall seems like pretty good advice. My favorite quote: “Being willing to read is a superpower in our industry. It really is.”</p>\n",
-			"date_published": "2017-10-29T17:33:00-04:00",
+			"date_published": "2017-10-29T17:33:33-04:00",
 			"url": "https://microblog.dave256apps.com/2017/10/29/saw-this-advice.html"
 		},
 		
@@ -109,7 +117,7 @@
 			"id": "http://davereed.micro.blog/2017/10/29/starting-to-crosspost.html",
 	      	
 			"content_html": "<p>Starting to cross-post my davereed.micro.blog posts to Twitter. Will still reply on Twitter but will initiate new posts from micro.blog</p>\n",
-			"date_published": "2017-10-29T17:05:00-04:00",
+			"date_published": "2017-10-29T17:05:11-04:00",
 			"url": "https://microblog.dave256apps.com/2017/10/29/starting-to-crosspost.html"
 		},
 		
@@ -117,7 +125,7 @@
 			"id": "http://davereed.micro.blog/2017/10/24/technology-is-amazing.html",
 	      	
 			"content_html": "<p>Technology is amazing but can also be debilitating. I wish I could convince my students to ignore their cell phones when studying and working on assignments. <a href=\"https://www.nytimes.com/2017/10/19/smarter-living/simple-ways-to-be-better-at-remembering.html\">NYT article</a></p>\n",
-			"date_published": "2017-10-23T20:40:00-04:00",
+			"date_published": "2017-10-23T20:40:20-04:00",
 			"url": "https://microblog.dave256apps.com/2017/10/23/technology-is-amazing.html"
 		},
 		
@@ -125,7 +133,7 @@
 			"id": "http://davereed.micro.blog/2017/08/15/theres-lots-of.html",
 	      	
 			"content_html": "<p>There’s lots of software I have purchased because I would occasionally find them useful, but not enough to pay a subscription for. I think the reason subscription prices are higher than previous upgrade prices for same app is they realize they’re going to lose a lot of customers.</p>\n",
-			"date_published": "2017-08-15T18:12:00-04:00",
+			"date_published": "2017-08-15T18:12:06-04:00",
 			"url": "https://microblog.dave256apps.com/2017/08/15/theres-lots-of.html"
 		},
 		
@@ -133,7 +141,7 @@
 			"id": "http://davereed.micro.blog/2017/08/15/i-somewhat-begrudgingly.html",
 	      	
 			"content_html": "<p>I somewhat begrudgingly switched to subscription versions of two pieces of software I use and right now I can only think of one other I would buy via subscription without first strongly considering other options.</p>\n",
-			"date_published": "2017-08-15T18:10:00-04:00",
+			"date_published": "2017-08-15T18:10:22-04:00",
 			"url": "https://microblog.dave256apps.com/2017/08/15/i-somewhat-begrudgingly.html"
 		},
 		
@@ -141,7 +149,7 @@
 			"id": "http://davereed.micro.blog/2017/08/15/220834.html",
 	      	
 			"content_html": "<p>This <a href=\"[[mattgemmell.com/subscript...](https://mattgemmell.com/subscription-software/)\">Matt Gemmell</a> pretty much sums up my thoughts on software subscriptions.</p>\n",
-			"date_published": "2017-08-15T18:08:00-04:00",
+			"date_published": "2017-08-15T18:08:34-04:00",
 			"url": "https://microblog.dave256apps.com/2017/08/15/220834.html"
 		},
 		
@@ -149,7 +157,7 @@
 			"id": "http://davereed.micro.blog/2017/07/31/i-checked-my.html",
 	      	
 			"content_html": "<p>I checked my <a href=\"https://itunes.apple.com/us/app/attendance2/id536206472?mt=8\">Attendance2</a> app written in Objective-C with Xcode 9 and it was nice that it compiled without any changes. I like Swift but I look forward to when we have the same stability with Swift.</p>\n",
-			"date_published": "2017-07-30T20:18:00-04:00",
+			"date_published": "2017-07-30T20:18:59-04:00",
 			"url": "https://microblog.dave256apps.com/2017/07/30/i-checked-my.html"
 		},
 		
@@ -157,7 +165,7 @@
 			"id": "http://davereed.micro.blog/2017/07/28/some-great-tips.html",
 	      	
 			"content_html": "<p>Some great tips on features of the iOS simulator <a href=\"https://medium.com/flawless-app-stories/simulator-on-steroids-c12774ca6b\">link</a></p>\n",
-			"date_published": "2017-07-28T17:29:00-04:00",
+			"date_published": "2017-07-28T17:29:41-04:00",
 			"url": "https://microblog.dave256apps.com/2017/07/28/some-great-tips.html"
 		},
 		
@@ -165,7 +173,7 @@
 			"id": "http://davereed.micro.blog/2017/07/28/convenient-access-to.html",
 	      	
 			"content_html": "<p>Convenient access to frequently used colors in Xcode 9. <a href=\"https://talk.objc.io/episodes/S01E60-xcode-9-productivity-tips?t=745\">Swift talk link</a></p>\n",
-			"date_published": "2017-07-28T11:56:00-04:00",
+			"date_published": "2017-07-28T11:56:50-04:00",
 			"url": "https://microblog.dave256apps.com/2017/07/28/convenient-access-to.html"
 		},
 		
@@ -173,7 +181,7 @@
 			"id": "http://davereed.micro.blog/2017/06/25/when-writing-cc.html",
 	      	
 			"content_html": "<p>When writing C/C++ (and probably Objective-C), in Xcode 9, select function prototypes in header file, control-click, and choose “Generate Missing Function Declarations” <a href=\"https://developer.apple.com/videos/play/wwdc2017/411\">at 20:20 in this WWDC video</a></p>\n",
-			"date_published": "2017-06-25T13:12:00-04:00",
+			"date_published": "2017-06-25T13:12:18-04:00",
 			"url": "https://microblog.dave256apps.com/2017/06/25/when-writing-cc.html"
 		},
 		
@@ -181,7 +189,7 @@
 			"id": "http://davereed.micro.blog/2017/05/11/bizarre-news-this.html",
 	      	
 			"content_html": "<p>Bizarre news this week with Comey getting fired. Fortunately, a decent spring day finally allowed me to get out for a ride and away from the news. 46 miles at 19.2 MPH <a href=\"https://www.strava.com/activities/980136350\">Strava link</a></p>\n",
-			"date_published": "2017-05-10T20:45:00-04:00",
+			"date_published": "2017-05-10T20:45:22-04:00",
 			"url": "https://microblog.dave256apps.com/2017/05/10/bizarre-news-this.html"
 		},
 		
@@ -189,7 +197,7 @@
 			"id": "http://davereed.micro.blog/2017/05/04/not-spring-weather.html",
 	      	
 			"content_html": "<p>Not spring weather in central Ohio this week but only decent day for a bike ride this week. Mid 40s and cloudy to start. 46 miles with Tim and Isaac at 20.5 MPH with lunch at Castles in Mechanicsburg. <a href=\"https://www.strava.com/activities/969387796\">Strava link</a></p>\n",
-			"date_published": "2017-05-03T20:19:00-04:00",
+			"date_published": "2017-05-03T20:19:34-04:00",
 			"url": "https://microblog.dave256apps.com/2017/05/03/not-spring-weather.html"
 		},
 		
@@ -197,16 +205,8 @@
 			"id": "http://davereed.micro.blog/2017/05/02/the-weather-channel.html",
 	      	
 			"content_html": "<p>The  Weather Channel app used 1.4 GB of cellular data on my phone in 3 days even though cellular data for it is turned off. The app was also on my Apple Watch so perhaps that used it. Uninstalled the app from my watch. Will delete app from phone if it happens again.</p>\n",
-			"date_published": "2017-05-02T16:06:00-04:00",
+			"date_published": "2017-05-02T16:06:51-04:00",
 			"url": "https://microblog.dave256apps.com/2017/05/02/the-weather-channel.html"
-		},
-		
-		{
-			"id": "http://davereed.micro.blog/2017/05/01/warm-and-windy.html",
-	      	
-			"content_html": "<p>Warm and windy day. Got out for a 28.7 mile bike ride at 18.1 MPH. <a href=\"https://www.strava.com/activities/964811648\">Strava link</a></p>\n",
-			"date_published": "2017-04-30T20:52:00-04:00",
-			"url": "https://microblog.dave256apps.com/2017/04/30/warm-and-windy.html"
 		}
 		
 	]
