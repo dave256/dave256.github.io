@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-09 18:43 -0500
+date: 2018-04-09 19:43:15 -0400
 guid: http://davereed.micro.blog/2018/04/09/as-someone-who.html
 ---
 As someone who recently tried to set some limitations on an iOS device used by a 12 year old, I'd love to see Apple include many of these features.
