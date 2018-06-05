@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://davereed.micro.blog/2018/06/05/favorite-wwdc-announcements.html",
+	      	
+			"content_html": "<p>Favorite WWDC announcements:</p>\n<ul>\n  <li>Shortcuts app</li>\n  <li>Do Not Disturb updates</li>\n  <li>Watch workout detection</li>\n  <li>Xcode improvements</li>\n  <li>looking forward to seeing iOS on Mac next year</li>\n</ul>\n",
+			"date_published": "2018-06-04T20:23:07-04:00",
+			"url": "https://microblog.dave256apps.com/2018/06/04/favorite-wwdc-announcements.html"
+		},
+		
+		{
 			"id": "http://davereed.micro.blog/2018/05/30/congrats-to-omni.html",
 	      	
 			"content_html": "<p>Congrats to <a href=\"https://micro.blog/Omni\">@Omni</a> on their release of OmniFocus 3 for iOS. I spent the morning cleaning out my OmniFocus database, adding tags, and setting up new perspectives (these features allowed me to get rid of fake due dates). <a href=\"https://itunes.apple.com/us/app/omnifocus-3/id1346190318?mt=8\">itunes.apple.com/us/app/om…</a></p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Not spring weather in central Ohio this week but only decent day for a bike ride this week. Mid 40s and cloudy to start. 46 miles with Tim and Isaac at 20.5 MPH with lunch at Castles in Mechanicsburg. <a href=\"https://www.strava.com/activities/969387796\">Strava link</a></p>\n",
 			"date_published": "2017-05-03T20:19:34-04:00",
 			"url": "https://microblog.dave256apps.com/2017/05/03/not-spring-weather.html"
-		},
-		
-		{
-			"id": "http://davereed.micro.blog/2017/05/02/the-weather-channel.html",
-	      	
-			"content_html": "<p>The  Weather Channel app used 1.4 GB of cellular data on my phone in 3 days even though cellular data for it is turned off. The app was also on my Apple Watch so perhaps that used it. Uninstalled the app from my watch. Will delete app from phone if it happens again.</p>\n",
-			"date_published": "2017-05-02T16:06:51-04:00",
-			"url": "https://microblog.dave256apps.com/2017/05/02/the-weather-channel.html"
 		}
 		
 	]
