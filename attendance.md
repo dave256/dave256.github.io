@@ -3,7 +3,7 @@ title: "Attendance2"
 permalink: "/attendance/"
 layout: page
 order: 2
-date: 2017-12-11 14:55:49 -0400
+date: 2018-07-28 16:22:58 -0400
 ---
 Attendance2 [iTunes App Store link](http://appstore.com/attendance2) is an app designed for teachers to take attendance in the classroom (either manually or by scanning QR or bar codes). It has options for generating random groups of students or selecting students in random order. You may customize the status from the default values of Absent, Present, Late, Excused and may use an optional second set of status values (for recording participation or other options).
 
@@ -11,11 +11,19 @@ Attendance2 is a complete rewrite of the original Attendance app that I develope
 
 Attendance2 cannot import the attendance records from the original Attendance app since the internal data structures are completely different; however, you can export the names as a CSV file (using the Info Report on the report tab of the original Attendance app) and import that CSV file into the new app. If you were using the original app, it probably makes sense to start using the new Attendance2 app at the beginning of a new term/semester.
 
-The videos (links below) were made with an earlier version of iOS but the app has been updated to work with newer versions and the look and feel of the UI matches the look and feel of the newer versions of iOS.
+The videos (links below) were made with an earlier version of iOS (except of the three CSV videos made with iOS 11) but the app has been updated to work with newer versions and the look and feel of the UI matches the look and feel of the newer versions of iOS.
 
 * Introduction to Attendance2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9s7m14t5LL4?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+* CSV file creation and import (these were made with iOS 11)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WKX-Nwia5UA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5fpP9HicMsM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SI5PV3VlKc0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 * QR and Bar Code scanning
 
@@ -24,10 +32,6 @@ The videos (links below) were made with an earlier version of iOS but the app ha
 * Longer video showing more features made with Attendance2 version 1.x
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xvzqvmXGqnc?rel=0" frameborder="10" allowfullscreen></iframe>
-
-* CSV Import
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5F5fxH_y5dc?rel=0" frameborder="10" allowfullscreen></iframe>
 
 * Export roster from Moodle and Import
 
