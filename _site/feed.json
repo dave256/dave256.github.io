@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://davereed.micro.blog/2018/07/28/made-a-few.html",
+	      	
+			"content_html": "<p>Made a few videos with detailed instructions for creating and importing your roster as a CSV file into my iOS <a href=\"https://itunes.apple.com/us/app/attendance2/id536206472?mt=8\">Attendance2 App Store link</a> app. Videos on <a href=\"http://www.dave256apps.com/attendance2\">Attendance2 website</a> for the app.</p>\n",
+			"date_published": "2018-07-28T16:10:50-04:00",
+			"url": "https://microblog.dave256apps.com/2018/07/28/made-a-few.html"
+		},
+		
+		{
 			"id": "http://davereed.micro.blog/2018/07/15/remembering-wyndy.html",
 	      	
 			"title": "Remembering Wyndy",
@@ -201,14 +209,6 @@
 			"content_html": "<p>When writing C/C++ (and probably Objective-C), in Xcode 9, select function prototypes in header file, control-click, and choose “Generate Missing Function Declarations” <a href=\"https://developer.apple.com/videos/play/wwdc2017/411\">at 20:20 in this WWDC video</a></p>\n",
 			"date_published": "2017-06-25T13:12:18-04:00",
 			"url": "https://microblog.dave256apps.com/2017/06/25/when-writing-cc.html"
-		},
-		
-		{
-			"id": "http://davereed.micro.blog/2017/05/11/bizarre-news-this.html",
-	      	
-			"content_html": "<p>Bizarre news this week with Comey getting fired. Fortunately, a decent spring day finally allowed me to get out for a ride and away from the news. 46 miles at 19.2 MPH <a href=\"https://www.strava.com/activities/980136350\">Strava link</a></p>\n",
-			"date_published": "2017-05-10T20:45:22-04:00",
-			"url": "https://microblog.dave256apps.com/2017/05/10/bizarre-news-this.html"
 		}
 		
 	]
