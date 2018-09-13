@@ -37,7 +37,9 @@ paginate_path: "/page/:num/"
 timezone: "US/Michigan"
 site_id: "378"
 gems: ["jekyll-paginate"]
+itunes_description: "Husband, computer science professor at Capital University, iOS App Developer (Attendance2, reDraw), dog lover, and cyclist."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "David Reed"
+itunes_email: ""
 podcast: false
