@@ -1,9 +1,26 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "David Reed",
+	"icon": "https://micro.blog/davereed/avatar.jpg",
 	"home_page_url": "https://microblog.dave256apps.com/",
 	"feed_url": "https://microblog.dave256apps.com/feed.json",
 	"items": [
+		
+		{
+			"id": "http://davereed.micro.blog/2018/09/13/im-more-interested.html",
+	      	
+			"content_html": "<p>I’m more interested in a Series 4 Watch than an iPhone XS but we’ll see if I order either one on Friday. My Series 2 watch didn’t seem to auto start an outdoor walk after updating to GM, but my iPhone 7 ran well before and runs well with iOS 12.</p>\n",
+			"date_published": "2018-09-12T21:34:17-04:00",
+			"url": "https://microblog.dave256apps.com/2018/09/12/im-more-interested.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2018/09/06/a-minor-update.html",
+	      	
+			"content_html": "<p>A minor update to my iOS <a href=\"https://itunes.apple.com/us/app/attendance2/id536206472?mt=8\">Attendance2</a> app is available now. It mostly updates the code to work with future iOS versions but also fixes a few minor bugs.</p>\n",
+			"date_published": "2018-09-06T18:30:51-04:00",
+			"url": "https://microblog.dave256apps.com/2018/09/06/a-minor-update.html"
+		},
 		
 		{
 			"id": "http://davereed.micro.blog/2018/07/28/made-a-few.html",
@@ -193,22 +210,6 @@
 			"content_html": "<p>Some great tips on features of the iOS simulator <a href=\"https://medium.com/flawless-app-stories/simulator-on-steroids-c12774ca6b\">link</a></p>\n",
 			"date_published": "2017-07-28T17:29:41-04:00",
 			"url": "https://microblog.dave256apps.com/2017/07/28/some-great-tips.html"
-		},
-		
-		{
-			"id": "http://davereed.micro.blog/2017/07/28/convenient-access-to.html",
-	      	
-			"content_html": "<p>Convenient access to frequently used colors in Xcode 9. <a href=\"https://talk.objc.io/episodes/S01E60-xcode-9-productivity-tips?t=745\">Swift talk link</a></p>\n",
-			"date_published": "2017-07-28T11:56:50-04:00",
-			"url": "https://microblog.dave256apps.com/2017/07/28/convenient-access-to.html"
-		},
-		
-		{
-			"id": "http://davereed.micro.blog/2017/06/25/when-writing-cc.html",
-	      	
-			"content_html": "<p>When writing C/C++ (and probably Objective-C), in Xcode 9, select function prototypes in header file, control-click, and choose “Generate Missing Function Declarations” <a href=\"https://developer.apple.com/videos/play/wwdc2017/411\">at 20:20 in this WWDC video</a></p>\n",
-			"date_published": "2017-06-25T13:12:18-04:00",
-			"url": "https://microblog.dave256apps.com/2017/06/25/when-writing-cc.html"
 		}
 		
 	]
