@@ -1,0 +1,296 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "David Reed",
+	"icon": "https://micro.blog/davereed/avatar.jpg",
+	"home_page_url": "https://microblog.dave256apps.com/",
+	"feed_url": "https://microblog.dave256apps.com/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://davereed.micro.blog/2018/09/13/im-more-interested.html",
+	      	
+			"content_text": "I’m more interested in a Series 4 Watch than an...",
+			"date_published": "2018-09-12T21:34:17-04:00",
+			"url": "https://microblog.dave256apps.com/2018/09/12/im-more-interested.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2018/09/06/a-minor-update.html",
+	      	
+			"content_text": "A minor update to my iOS Attendance2 app is available...",
+			"date_published": "2018-09-06T18:30:51-04:00",
+			"url": "https://microblog.dave256apps.com/2018/09/06/a-minor-update.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2018/07/28/made-a-few.html",
+	      	
+			"content_text": "Made a few videos with detailed instructions for creating and...",
+			"date_published": "2018-07-28T16:10:50-04:00",
+			"url": "https://microblog.dave256apps.com/2018/07/28/made-a-few.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2018/07/15/remembering-wyndy.html",
+	      	
+			"title": "Remembering Wyndy",
+			
+			"content_text": "Wyndy, we miss you so much right now. You came...",
+			"date_published": "2018-07-15T19:03:18-04:00",
+			"url": "https://microblog.dave256apps.com/2018/07/15/remembering-wyndy.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2018/06/05/favorite-wwdc-announcements.html",
+	      	
+			"content_text": "Favorite WWDC announcements: Shortcuts app Do Not Disturb updates Watch...",
+			"date_published": "2018-06-04T20:23:07-04:00",
+			"url": "https://microblog.dave256apps.com/2018/06/04/favorite-wwdc-announcements.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2018/05/30/congrats-to-omni.html",
+	      	
+			"content_text": "Congrats to @Omni on their release of OmniFocus 3 for...",
+			"date_published": "2018-05-30T15:07:47-04:00",
+			"url": "https://microblog.dave256apps.com/2018/05/30/congrats-to-omni.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2018/04/09/as-someone-who.html",
+	      	
+			"content_text": "As someone who recently tried to set some limitations on...",
+			"date_published": "2018-04-09T19:43:15-04:00",
+			"url": "https://microblog.dave256apps.com/2018/04/09/as-someone-who.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2018/02/15/great-discussion-about.html",
+	      	
+			"content_text": "Great discussion about screen addiction, especially with kids, by Georgia...",
+			"date_published": "2018-02-15T07:40:51-05:00",
+			"url": "https://microblog.dave256apps.com/2018/02/15/great-discussion-about.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2018/02/09/tech-addiction.html",
+	      	
+			"title": "Tech Addiction",
+			
+			"content_text": "EdSurge article “Supercomputers play chess against your mind to extract...",
+			"date_published": "2018-02-08T19:15:12-05:00",
+			"url": "https://microblog.dave256apps.com/2018/02/08/tech-addiction.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2018/01/14/ios-economy.html",
+	      	
+			"title": "iOS Economy",
+			
+			"content_text": "The iOS Economy, Updated (via @gruber Daring Fireball) I’d love...",
+			"date_published": "2018-01-13T20:02:40-05:00",
+			"url": "https://microblog.dave256apps.com/2018/01/13/ios-economy.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/12/30/how-does-the.html",
+	      	
+			"content_text": "How does the weather channel app use background activity when...",
+			"date_published": "2017-12-30T08:41:54-05:00",
+			"url": "https://microblog.dave256apps.com/2017/12/30/how-does-the.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/12/06/amazon-appletv-app.html",
+	      	
+			"content_text": "Amazon AppleTV app released according to release notes for their...",
+			"date_published": "2017-12-06T07:00:29-05:00",
+			"url": "https://microblog.dave256apps.com/2017/12/06/amazon-appletv-app.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/12/06/used-apple-pay.html",
+	      	
+			"content_text": "Used Apple Pay Cash today. Loaded $10 in it to...",
+			"date_published": "2017-12-05T21:44:47-05:00",
+			"url": "https://microblog.dave256apps.com/2017/12/05/used-apple-pay.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/12/06/congrats-to-daniel.html",
+	      	
+			"content_text": "Congrats to Daniel Jalkut of @redsweater on the release of...",
+			"date_published": "2017-12-05T21:41:51-05:00",
+			"url": "https://microblog.dave256apps.com/2017/12/05/congrats-to-daniel.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/11/30/released-version-of.html",
+	      	
+			"content_text": "Released version 3.1 of reDraw Whiteboard today. Main new feature...",
+			"date_published": "2017-11-30T17:00:41-05:00",
+			"url": "https://microblog.dave256apps.com/2017/11/30/released-version-of.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/11/27/released-version-of.html",
+	      	
+			"content_text": "Released version 6.1 of Attendance2 today with a few new...",
+			"date_published": "2017-11-27T17:01:09-05:00",
+			"url": "https://microblog.dave256apps.com/2017/11/27/released-version-of.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/11/01/my-math-colleague.html",
+	      	
+			"content_text": "My math colleague @JonStadlerMath had the perfect Halloween costume.\n\n\n",
+			"date_published": "2017-10-31T20:42:16-04:00",
+			"url": "https://microblog.dave256apps.com/2017/10/31/my-math-colleague.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/10/29/saw-this-advice.html",
+	      	
+			"content_text": "Saw this Advice for early-career developers Overall seems like pretty...",
+			"date_published": "2017-10-29T17:33:33-04:00",
+			"url": "https://microblog.dave256apps.com/2017/10/29/saw-this-advice.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/10/29/starting-to-crosspost.html",
+	      	
+			"content_text": "Starting to cross-post my davereed.micro.blog posts to Twitter. Will still...",
+			"date_published": "2017-10-29T17:05:11-04:00",
+			"url": "https://microblog.dave256apps.com/2017/10/29/starting-to-crosspost.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/10/24/technology-is-amazing.html",
+	      	
+			"content_text": "Technology is amazing but can also be debilitating. I wish...",
+			"date_published": "2017-10-23T20:40:20-04:00",
+			"url": "https://microblog.dave256apps.com/2017/10/23/technology-is-amazing.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/08/15/theres-lots-of.html",
+	      	
+			"content_text": "There’s lots of software I have purchased because I would...",
+			"date_published": "2017-08-15T18:12:06-04:00",
+			"url": "https://microblog.dave256apps.com/2017/08/15/theres-lots-of.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/08/15/i-somewhat-begrudgingly.html",
+	      	
+			"content_text": "I somewhat begrudgingly switched to subscription versions of two pieces...",
+			"date_published": "2017-08-15T18:10:22-04:00",
+			"url": "https://microblog.dave256apps.com/2017/08/15/i-somewhat-begrudgingly.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/08/15/220834.html",
+	      	
+			"content_text": "This Matt Gemmell pretty much sums up my thoughts on...",
+			"date_published": "2017-08-15T18:08:34-04:00",
+			"url": "https://microblog.dave256apps.com/2017/08/15/220834.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/07/31/i-checked-my.html",
+	      	
+			"content_text": "I checked my Attendance2 app written in Objective-C with Xcode...",
+			"date_published": "2017-07-30T20:18:59-04:00",
+			"url": "https://microblog.dave256apps.com/2017/07/30/i-checked-my.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/07/28/some-great-tips.html",
+	      	
+			"content_text": "Some great tips on features of the iOS simulator link...",
+			"date_published": "2017-07-28T17:29:41-04:00",
+			"url": "https://microblog.dave256apps.com/2017/07/28/some-great-tips.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/07/28/convenient-access-to.html",
+	      	
+			"content_text": "Convenient access to frequently used colors in Xcode 9. Swift...",
+			"date_published": "2017-07-28T11:56:50-04:00",
+			"url": "https://microblog.dave256apps.com/2017/07/28/convenient-access-to.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/06/25/when-writing-cc.html",
+	      	
+			"content_text": "When writing C/C++ (and probably Objective-C), in Xcode 9, select...",
+			"date_published": "2017-06-25T13:12:18-04:00",
+			"url": "https://microblog.dave256apps.com/2017/06/25/when-writing-cc.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/05/11/bizarre-news-this.html",
+	      	
+			"content_text": "Bizarre news this week with Comey getting fired. Fortunately, a...",
+			"date_published": "2017-05-10T20:45:22-04:00",
+			"url": "https://microblog.dave256apps.com/2017/05/10/bizarre-news-this.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/05/04/not-spring-weather.html",
+	      	
+			"content_text": "Not spring weather in central Ohio this week but only...",
+			"date_published": "2017-05-03T20:19:34-04:00",
+			"url": "https://microblog.dave256apps.com/2017/05/03/not-spring-weather.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/05/02/the-weather-channel.html",
+	      	
+			"content_text": "The Weather Channel app used 1.4 GB of cellular data...",
+			"date_published": "2017-05-02T16:06:51-04:00",
+			"url": "https://microblog.dave256apps.com/2017/05/02/the-weather-channel.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/05/01/warm-and-windy.html",
+	      	
+			"content_text": "Warm and windy day. Got out for a 28.7 mile...",
+			"date_published": "2017-04-30T20:52:31-04:00",
+			"url": "https://microblog.dave256apps.com/2017/04/30/warm-and-windy.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/04/30/rainy-day-in.html",
+	      	
+			"content_text": "Rainy day in Columbus. Put finishing touches on minor update...",
+			"date_published": "2017-04-29T20:44:11-04:00",
+			"url": "https://microblog.dave256apps.com/2017/04/29/rainy-day-in.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/04/29/looking-forward-to.html",
+	      	
+			"content_text": "Looking forward to reading this series on coordinators. In theory...",
+			"date_published": "2017-04-28T20:37:20-04:00",
+			"url": "https://microblog.dave256apps.com/2017/04/28/looking-forward-to.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/04/27/ba51.html",
+	      	
+			"content_text": "Congrats to @manton on the launch of Micro.blog. I'm looking...",
+			"date_published": "2017-04-27T09:15:56-04:00",
+			"url": "https://microblog.dave256apps.com/2017/04/27/ba51.html"
+		},
+		
+		{
+			"id": "http://davereed.micro.blog/2017/04/27/finals-start-tomorrow.html",
+	      	
+			"content_text": "Finals start tomorrow. Looking forward to re-energizing this summer. Planning...",
+			"date_published": "2017-04-26T20:27:15-04:00",
+			"url": "https://microblog.dave256apps.com/2017/04/26/finals-start-tomorrow.html"
+		}
+		
+	]
+}
