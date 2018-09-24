@@ -3,6 +3,7 @@ title: "Apps"
 permalink: "/apps/"
 layout: page
 order: 0
+navigation: true
 date: 2017-08-28 17:15:54 -0400
 ---
 Since I teach computer science I write apps I want to use and hope that others find useful. 
