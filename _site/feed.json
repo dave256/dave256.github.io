@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://davereed.micro.blog/2018/09/24/140010.html",
+	      	
+			"content_html": "<p>Congrats to <a href=\"https://micro.blog/Omni\">@Omni</a> on the release of OmniFocus 3 for Mac. I’ve been using the iOS version since its release in May and the Mac beta for a few weeks. Tags and the new perspective options are fantastic.</p>\n",
+			"date_published": "2018-09-24T10:00:10-04:00",
+			"url": "https://microblog.dave256apps.com/2018/09/24/140010.html"
+		},
+		
+		{
 			"id": "http://davereed.micro.blog/2018/09/13/im-more-interested.html",
 	      	
 			"content_html": "<p>I’m more interested in a Series 4 Watch than an iPhone XS but we’ll see if I order either one on Friday. My Series 2 watch didn’t seem to auto start an outdoor walk after updating to GM, but my iPhone 7 ran well before and runs well with iOS 12.</p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p>I checked my <a href=\"https://itunes.apple.com/us/app/attendance2/id536206472?mt=8\">Attendance2</a> app written in Objective-C with Xcode 9 and it was nice that it compiled without any changes. I like Swift but I look forward to when we have the same stability with Swift.</p>\n",
 			"date_published": "2017-07-30T20:18:59-04:00",
 			"url": "https://microblog.dave256apps.com/2017/07/30/i-checked-my.html"
-		},
-		
-		{
-			"id": "http://davereed.micro.blog/2017/07/28/some-great-tips.html",
-	      	
-			"content_html": "<p>Some great tips on features of the iOS simulator <a href=\"https://medium.com/flawless-app-stories/simulator-on-steroids-c12774ca6b\">link</a></p>\n",
-			"date_published": "2017-07-28T17:29:41-04:00",
-			"url": "https://microblog.dave256apps.com/2017/07/28/some-great-tips.html"
 		}
 		
 	]
